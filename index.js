@@ -1,4 +1,6 @@
-
+/*----------------------------------------CALCULAR COCIENTE Y RESIDUO-------------------------------------*/
+/*----------------------------------------CALCULAR COCIENTE Y RESIDUO-------------------------------------*/
+/*-----------------------------------------CALCULAR COCIENTE Y RESIDUO------------------------------------*/
 
 const btnCalcular = document.getElementById('Calcular'); 
 
